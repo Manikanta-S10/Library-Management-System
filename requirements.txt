@@ -24,6 +24,7 @@ fonttools==4.55.8
 fsspec==2025.2.0
 geojson==3.2.0
 geopandas==1.0.1
+gunicorn==23.0.0
 idna==3.10
 iniconfig==2.0.0
 itsdangerous==2.2.0
